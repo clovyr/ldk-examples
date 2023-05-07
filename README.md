@@ -1,4 +1,6 @@
-# ldk-examples
+Welcome to the LDK developer environment!
+
+Quick start:
 
 ```bash
 cargo new myproject
